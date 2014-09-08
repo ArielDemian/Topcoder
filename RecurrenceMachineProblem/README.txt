@@ -1,0 +1,1 @@
+The problem asked at this URL: http://stackoverflow.com/questions/25659045/efficient-solution-for-my-task-needed

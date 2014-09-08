@@ -1,0 +1,3 @@
+This problem was really fun to solve.
+Given a bidimensional matrix of chars, count all the possible words that can be made up with those chars except the words that have double chars.
+I thought about a different algorithm than brute force but it's not viable because you would have to search for all the doubles inside each single array and that would be too time consuming. Brute force is not that bad as a solution, just a little tricky with all the indexes. Hope you like the solution! :)
