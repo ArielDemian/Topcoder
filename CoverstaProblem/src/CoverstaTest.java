@@ -71,7 +71,7 @@ public class CoverstaTest {
 		String[] a = { "88", "15", "23", "24", "66", "62" };
 		int[] x = { 5, 4, 2, 0, 5, 1, -4, -3, -2 };
 		int[] y = { 1, 0, -1, 0, 0, 0, 0, -1, -1 };
-		int expected = 42;
+		int expected = 44;
 		assertEquals(expected, c.place(a, x, y));
 	}
 
